@@ -10,13 +10,12 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhibhande&theme=onedark" alt="abhibhande" /></a> </p>
 
-<details>	
- <summary><b>GSSOC(24) Badges 🪶</b></summary><br>
-<div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
+## GSSOC(24) Badges 🪶
+<div style='display:flex; align-items:center; gap: 10px;' align='center'>
 <img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/postman.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/1.png" width="100px" height="100px" /></a>
+  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/1.png" width="100px" height="100px" />
+  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/2.png" width="100px" height="100px" />
 </div>
-</details>
 
 <p align="left"> <a href="https://twitter.com/www.linkedin.com/in/abhishek-bhande-21a984259/" target="blank"><img src="https://img.shields.io/twitter/follow/www.linkedin.com/in/abhishek-bhande-21a984259/?logo=twitter&style=for-the-badge" alt="www.linkedin.com/in/abhishek-bhande-21a984259/" /></a> </p>
 
