@@ -14,7 +14,6 @@
 <div style='display:flex; align-items:center; gap: 10px;' align='center'>
 <img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/postman.png" width="100px" height="100px" />
   <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/1.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/2.png" width="100px" height="100px" />
 </div>
 
 <p align="left"> <a href="https://twitter.com/www.linkedin.com/in/abhishek-bhande-21a984259/" target="blank"><img src="https://img.shields.io/twitter/follow/www.linkedin.com/in/abhishek-bhande-21a984259/?logo=twitter&style=for-the-badge" alt="www.linkedin.com/in/abhishek-bhande-21a984259/" /></a> </p>
